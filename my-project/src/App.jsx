@@ -1,5 +1,6 @@
 
 import './App.css'
+import GrandPaa from './Components/GrandPaa/GrandPaa'
 
 function App() {
 
@@ -7,7 +8,7 @@ function App() {
   return (
     <>
       
-      <h1>Vite + React</h1>
+      <GrandPaa></GrandPaa>
       
     </>
   )
